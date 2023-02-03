@@ -1,0 +1,2634 @@
+    1  hcitool dev
+    2  sudo systemctl restart bluetooth
+    3  systemctl status bluetooth
+    4  sudo systemctl start --now bluetooth.service
+    5  systemctl status bluetooth
+    6  sudo systemctl enable bluetooth.service
+    7  systemctl status bluetooth
+    8  sudo systemctl start bluetooth.service
+    9  sudo systemctl enable bluetooth.service
+   10  hcitool dev
+   11  sudo add-apt-repository ppa:bluetooth/bluez
+   12  sudo hcitool dev
+   13  ls
+   14  ls /
+   15  cd boot
+   16  cd /boot
+   17  ls
+   18  cd..
+   19  cd.
+   20  cd /
+   21  ls
+   22  cd /home
+   23  l
+   24  locale
+   25  ls
+   26  ls /
+   27  cd /root
+   28  cd /
+   29  cd /root
+   30  cd /boot
+   31  ls
+   32  cd /efi
+   33  cd /grub
+   34  tree
+   35  cd ..
+   36  ls
+   37  pwd
+   38  cd
+   39  ls
+   40  cd Desktop
+   41  madir xyz
+   42  mkdir xyz
+   43  touch abc
+   44  ls
+   45  nano abc
+   46  cat jd
+   47  cat abc
+   48  echo kk
+   49  echo kk >> abc
+   50  cat abc
+   51  lsusb
+   52  rm abc
+   53  ls
+   54  cp 'Untitled Document 1'
+   55  cp 'Untitled Document 1' xyz
+   56  cd xyz
+   57  ls
+   58  cd ..
+   59  ls
+   60  rm xyz
+   61  rkdir xyz
+   62  rm -r xyz
+   63  ls
+   64  mkdir xyz
+   65  sudo lshw
+   66  rmdir xyz
+   67  ls
+   68  cat abc
+   69  touch 1
+   70  ls
+   71  cat 1
+   72  nano 1
+   73  ls
+   74  cat 1
+   75  ls
+   76  cat 12
+   77  nano 1
+   78  ls
+   79  cat 1
+   80  ip a
+   81  host google.com
+   82  ls
+   83  mkdir xyz
+   84  ls
+   85  cp 1 xyz
+   86  ls
+   87  cd xyz
+   88  ls
+   89  cat 1
+   90  cd ..
+   91  ls
+   92  cp 12 xyz ls
+   93  cat 12
+   94  echi hellow world >> 12
+   95  echo hellow world >> 12
+   96  cat 12
+   97  grep "hi" 12
+   98  grep "hi" 12.txt
+   99  man mkdir
+  100  echo hello world 
+  101  ls 
+  102  vim 1
+  103  cat 1
+  104  cat 12
+  105  cat 12 | greb "hi"
+  106  cat 12 | grep "hi"
+  107  touch 3.sh
+  108  ls
+  109  nano 3.sh
+  110  cat 3.sh
+  111  nano 3.sh
+  112  ./3.sh
+  113  sudo ./2.sh
+  114  sudo ./3.sh
+  115  ./3.sh
+  116  chmod +x 3.sh
+  117  ./3.sh
+  118  nano 3.sh
+  119  chmod +x 3.sh
+  120  ./3.sh
+  121  nano 3.sh
+  122  ./3.sh
+  123  chmod +x 3.sh
+  124  ./3.sh
+  125  nano 3.sh
+  126  ./3.sh
+  127  nano 3.sh
+  128  ./3.sh
+  129  nano 3.sh
+  130  chmod +x 3.sh
+  131  ./3.sh
+  132  nano 3.sh
+  133  chmod +x 3.sh
+  134  ./3.sh
+  135  nano 3.sh
+  136  chmod +x 3.sh
+  137  nano 3.sh
+  138  chmod +x 3.sh
+  139  ./3.sh
+  140  nano 3.sh
+  141  ./3.sh
+  142  nano 3.sh
+  143  ./3.sh
+  144  ls
+  145  ./3.sh
+  146  ls
+  147  cat 'Untitled Document 1'
+  148  nano 'Untitled Document 1'
+  149  ls
+  150  rm "Untitled Document 1"
+  151  ls
+  152  cat linux
+  153  ls
+  154  ls -l
+  155  ls -lh
+  156  ls -lhs
+  157  ls -ls
+  158  ls -lsr
+  159  ls ..
+  160  ls
+  161  ls -s
+  162  ls -sl
+  163  ls -sli
+  164  ls -slia
+  165  ls -slia --color
+  166  ls -sli --color
+  167  ls -sli
+  168  nam mkdir
+  169  man mkdir
+  170  ls
+  171  makdir -m a=r
+  172  mkdir -m a=r
+  173  mkdir -m a=r--
+  174  mkdir -m a=rwx
+  175  mkdir -m g=rwx
+  176  mkdir chintan -m g=rwx
+  177  ls -l
+  178  chmod chintan -m g=r
+  179  mkdir sakhiya -m g=r
+  180  ls -l
+  181  chmod g=wx akhiya
+  182  chmod g=wx sakhiya
+  183  ls -l
+  184  chmod g= sakhiya
+  185  ls -l
+  186  rm -r chintan sakhiya
+  187  ls
+  188  ls -l
+  189  mkdir chintan u=wx
+  190  l
+  191  ls -l
+  192  chmod chintan g=w
+  193  chmod g=w chintan
+  194  ls
+  195  ls -l
+  196  chmod g=w x= chintan
+  197  chmod g=w o= chintan
+  198  chmod g=w u= chintan
+  199  cal
+  200  open chrome
+  201  ls
+  202  more 1
+  203  ls
+  204  less 1
+  205  more 1
+  206  ls
+  207  head 1
+  208  tail 1
+  209  vim 1
+  210  vim 12
+  211  vim 1
+  212  ls
+  213  ls -l
+  214  cat1
+  215  cat 1
+  216  emacs 1
+  217  history
+  218  figlet 
+  219  figlet "ff"
+  220  ls
+  221  cp * xyz
+  222  ls -l
+  223  rmdir chintan
+  224  cp * xyz
+  225  cp 1 xyz
+  226  cd xyz
+  227  ls
+  228  rm *
+  229  ls
+  230  cd ..
+  231  ls
+  232  cp 1* xyz
+  233  ls
+  234  cd xyz
+  235  ls
+  236  cd ..
+  237  cp 'u=wx' xyz
+  238  chmod g=r 'u=wx'
+  239  cp 'u=wx' xyz
+  240  ls -l
+  241  chmod g=rwx 'u=wx'
+  242  ls -l
+  243  cp 'u=wx' xyz
+  244  clear
+  245  locate 1
+  246  locate 12
+  247  locate 'u=\nlocate 1
+  248  locate 'u="\nlocate 1
+  249  sudo lshw
+  250  ip a
+  251  ip route show
+  252  ls
+  253  cd Desktop
+  254  ls
+  255  touch myfile.sh
+  256  nano myfile.sh
+  257  chmod +x myfile.sh
+  258  ./myfile.sh
+  259  nano myfile.sh
+  260  ./myfile.sh
+  261  nano myfile.sh
+  262  ./myfile.sh
+  263  nano myfile.sh
+  264  ./myfile.sh
+  265  nano myfile.sh
+  266  ls
+  267  touch file1 file2 file3 file4
+  268  ls
+  269  cat file1
+  270  nano 3.sh
+  271  nana myfile.sh
+  272  nano myfile.sh
+  273  chmod +x myfile.sh
+  274  ./myfile.sh
+  275  cat file1
+  276  cat file2
+  277  touch while.sh
+  278  nano while.sh
+  279  chmod +x while.sh
+  280  ./while.sh
+  281  nano while.sh
+  282  ./while.sh
+  283  nano while.sh
+  284  ./while.sh
+  285  touch if.sh
+  286  nano if.sh
+  287  vim while.sh
+  288  ls -l
+  289  vim while.sh
+  290  sudo vim while.sh
+  291  sudo vim if.sh
+  292  chmod +x if.sh
+  293  ./if.sh
+  294  nano if.sh
+  295  ./if.sh
+  296  nano if.sh
+  297  ./if.sh
+  298  nano if.sh
+  299  ./if.sh
+  300  nano if.sh
+  301  ./if.sh
+  302  nano if.sh
+  303  ./if.sh
+  304  nano if.sh
+  305  ./if.sh
+  306  jobs
+  307  1
+  308  2
+  309  1
+  310  2
+  311  1
+  312  ls
+  313  1
+  314  0
+  315  1
+  316  0
+  317  1
+  318  cd xyz
+  319  1
+  320  0
+  321  2
+  322  1
+  323  0
+  324  1
+  325  2
+  326  1
+  327  0
+  328  3
+  329  1
+  330  2
+  331  1
+  332  2
+  333  1
+  334  2
+  335  1
+  336  2
+  337  1
+  338  2
+  339  3
+  340  2
+  341  1
+  342  2
+  343  1
+  344  2
+  345  1
+  346  jobs
+  347  -
+  348  jobs
+  349  +
+  350  -
+  351  --
+  352  1
+  353  2
+  354  1
+  355  3
+  356  pwd
+  357  PWD
+  358  echo $PWD
+  359  user
+  360  users
+  361  1
+  362  ls
+  363  cd Desktop
+  364  1
+  365  2
+  366  cd Desktop
+  367  ls
+  368  git init
+  369  cd Desktop
+  370  ls
+  371  ls -l
+  372  ps
+  373  bash
+  374  1
+  375  cd Documents
+  376  ps
+  377  1
+  378  yay chrom
+  379  yay chrome
+  380  sudo pacman -s vim
+  381  sudo pacman -S vim
+  382  sudo pacman -S cmatrix
+  383  sudo pacman -S vim
+  384  sudo pacman -S python3
+  385  less etc/grops
+  386  less etc/group
+  387  less etc/groups
+  388  less /etc/groups
+  389  ls /etc/groups
+  390  ls /etc/group
+  391  lsss /etc/group
+  392  less /etc/group
+  393  su-
+  394  less /etc/gropu
+  395  less /etc/group
+  396  wheel:x:998:sensei
+  397  useradd -G wheel chintan.skahiya
+  398  sudo useradd -G wheel chintan.skahiya
+  399  less /etc/group
+  400  cat /etc/group | grep chintan
+  401  less /etc/group
+  402  id chintan
+  403  clear
+  404  ls
+  405  cd bin
+  406  cd root
+  407  cd /root
+  408  cd /bin
+  409  id chintan
+  410  id chintan.sakhiya
+  411  cd
+  412  id chintan.sakhiya
+  413  id shaktirajsinh.jala
+  414  id wheel
+  415  cd Desktop
+  416  1
+  417  cd Documents
+  418  ls
+  419  cp ../Desktop/* .
+  420  ls
+  421  ls -l
+  422  mkdir try
+  423  ls
+  424  mkdir try
+  425  ls -l
+  426  chmod -R 777 try
+  427  ls
+  428  ls -l
+  429  chmod -R 777isfo try
+  430  isfo
+  431  cd
+  432  isof
+  433  lsof
+  434  ls
+  435  cd Desktop
+  436  ls
+  437  rm -r 'u=wx
+  438  rm -r 'u=wx'
+  439  ls
+  440  cd ../Desktop
+  441  cd ../Documents
+  442  ps
+  443  history
+  444  file
+  445  file -l
+  446  lsof
+  447  du
+  448  du -h
+  449  du -o
+  450  du -0
+  451  du -a
+  452  du -B
+  453  du -B 16
+  454  du -B 2000
+  455  du h-B 2000
+  456  du -hB 2000
+  457  du -s
+  458  du -a
+  459  du -as
+  460  du -time
+  461  du -t
+  462  du /Desktop -h
+  463  du -h
+  464  du -s
+  465  du -S
+  466  cd Desktop
+  467  ls
+  468  du
+  469  du -h
+  470  ls -a
+  471  rm -r .git
+  472  ls
+  473  cleaar
+  474  clear
+  475  cd ..
+  476  cd Documents
+  477  ls
+  478  cd
+  479  cd Desktop
+  480  rm *
+  481  rm -r *
+  482  cd
+  483  cd Desktop
+  484  cd
+  485  cd Documents
+  486  ls
+  487  git init
+  488  git add .
+  489  git log
+  490  git commit -m "first commit"
+  491  git log
+  492  git states
+  493  git add file1
+  494  git commit -m "littel change"
+  495  git log
+  496  git log | grep commit >>1
+  497  cat 1
+  498  rm 1
+  499  git states
+  500  git diff 17d9b74 5940b76
+  501  git states
+  502  git add*
+  503  git add .
+  504  git commit -m "no change"
+  505  git states
+  506  git status
+  507  ls
+  508  cat file1
+  509  git commit 17d9b7439
+  510  git log
+  511  git commit 5940b76b2a0
+  512  git log
+  513  git commit 5940b76b
+  514  git checkout 5940b76b
+  515  cat file1
+  516  git logs
+  517  git checkout 17d9b743943
+  518  cat file1
+  519  git logs
+  520  git states
+  521  git tree
+  522  git switch -
+  523  git switch master
+  524  git log
+  525  cat first1
+  526  cat file1
+  527  git log
+  528  git checkout 650d20ba0d
+  529  nano file1
+  530  git add file1
+  531  git commit -"more change"
+  532  git switch master 
+  533  ls
+  534  cat file1
+  535  git logs
+  536  git log
+  537  git switch 650d20ba0d
+  538  git checkout 650d20ba0d
+  539  git log
+  540  cat file1
+  541  git checkout 7c8e477
+  542  cat file1
+  543  git switch master
+  544  git logs
+  545  git checkout 7c8e477
+  546  cat file1
+  547  git log
+  548  git switch master
+  549  git diff 5940b76b2a 7c8e477
+  550  git status
+  551  git ls-tree -r HEAD dir
+  552  git logs
+  553  ls -a
+  554  cd .git
+  555  ls
+  556  cd branches
+  557  ls
+  558  ls -a
+  559  cd ..
+  560  rm -r .git
+  561  ls
+  562  clear
+  563  git init
+  564  git states
+  565  git commit -m "first comit"
+  566  git logs
+  567  git add .
+  568  git commit -m "first commit"
+  569  git log
+  570  cat file1
+  571  vim file1
+  572  cat file1
+  573  nano file1
+  574  git states
+  575  git add file1
+  576  git commit -m "litte change"
+  577  git logs
+  578  cat file1
+  579  git log
+  580  git checkout 6e1ad1013c32fc5a
+  581  cat file1
+  582  nano file1
+  583  git add file1
+  584  git commit -m "more change"
+  585  git logs
+  586  git switch master
+  587  git logd
+  588  git checkout 3ddfe5b
+  589  git logs
+  590  git switch master
+  591  cat file1
+  592  git log
+  593  git checkout 6e1ad1013c32
+  594  cat file1
+  595  git log
+  596  git switch master
+  597  git logs
+  598  cat file1
+  599  git checkout 6e1ad1013c32
+  600  cat file1
+  601  git logs
+  602  git checkout 3ddfe5b
+  603  git logs
+  604  cat file1
+  605  git marge master
+  606  cat file1
+  607  git switch master
+  608  cat file1
+  609  git log
+  610  git checkout e227652
+  611  cat file1
+  612  logs
+  613  git log
+  614  git switch master
+  615  git logs
+  616  git log
+  617  git diff 6e1ad1013c32f e227652
+  618  git branch b1
+  619  git logs
+  620  git switch b1
+  621  git logs
+  622  cat file1
+  623  nano fiel1
+  624  cat fiel1
+  625  nano file1
+  626  git add file1
+  627  git commit
+  628  git logs
+  629  git switch master
+  630  cat file1
+  631  git logs
+  632  git mearge b1 -m "final mearge"
+  633  cat file1
+  634  git logs
+  635  git log
+  636  git checkout e227652
+  637  git log
+  638  fit switch master
+  639  git switch master
+  640  git log
+  641  packman -S python3
+  642  pacman -S python3
+  643  sudo pacman -S python3
+  644  sudo pacman -s python3
+  645  sudo pacman -S python3
+  646  sudo pacman -syu google-chrome
+  647  sudo pacman -s google-chrome
+  648  sudo pacman -S google-chrome
+  649  sudo pacman -S google-chrome python3 vim
+  650  git status
+  651  cat etc/gropu | grap wheel
+  652  cat /etc/group | grap wheel
+  653  cat /etc/group | grep wheel
+  654  cat /etc/group
+  655  cat /etc/group | grep chintan
+  656  cat /etc/group | grep sensei
+  657  historu
+  658  history
+  659  history | grep chintan
+  660  id chintan.sakhiya
+  661  id sensea
+  662  id sensei
+  663  sudo useradd -G input
+  664  sudo useradd -G input chintan.sakhiya
+  665  cat /etc/group | grep chintan
+  666  cd Documents
+  667  ls
+  668  git log
+  669  git -h
+  670  git status
+  671  git grep
+  672  git log
+  673  git checkout 6e1ad1013c
+  674  git branch b2
+  675  git logs
+  676  git switch master
+  677  git logs
+  678  git switch master
+  679  git switch b2
+  680  cat file1
+  681  git switch master
+  682  cat file1
+  683  history | grep user
+  684  history | grep git config
+  685  git config user.name
+  686  git config user.email
+  687  git config 
+  688  man git
+  689  man git config
+  690  git .git
+  691  cd .git
+  692  ls
+  693  cd branches
+  694  ls
+  695  ld -a
+  696  ls -a
+  697  cd ..
+  698  ls
+  699  ls -a
+  700  git --show
+  701  git --show --origin
+  702  git --show-origin
+  703  git config --show-origin
+  704  rm -r .git
+  705  ls -a
+  706  echo "# first-repository" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/chintansakhiya/first-repository.git\ngit push -u origin main
+  707  git push -u origin main
+  708  git status
+  709  git add .
+  710  git status
+  711  git commit -m "first push"
+  712  git remote add origin https://github.com/chintansakhiya/first-repository.git\n
+  713  git push -u origin main
+  714  pidof chrome
+  715  pgrep chrome
+  716  ps aux | grep firefox
+  717  ps aux | grep chrome
+  718  kill 12267
+  719  kill 2631
+  720  pgrep chrome
+  721  pidof chrome
+  722  kill 12414
+  723  pidof chrome
+  724  kill 13240
+  725  pidof chrome
+  726  kill 13226
+  727  kill 13213
+  728  export
+  729  cd Documents
+  730  git log
+  731  f41b445b1b54
+  732  git log
+  733  git diff 536d4f2 f41b445b1b
+  734  ls
+  735  cat 3.sh
+  736  git checkout f41b445b1
+  737  cat 3.sh
+  738  ls
+  739  rm -r .git
+  740  ls
+  741  ls -l
+  742  sudo chowm sensei try 
+  743  sudo chown sensei try 
+  744  ls -l
+  745  sudo chown chintan.sakhiya try 
+  746  ls -l
+  747  chown -v sensei:try try
+  748  chown -v wheel:sensai try
+  749  ls
+  750  car README.md
+  751  cat README.md
+  752  git init
+  753  git add .
+  754  git commit -m "first commit"
+  755  git branch -M main
+  756  git remote add origin https://github.com/chintansakhiya/first-repository.git
+  757  git push -u origin main
+  758  ssh-keygen -t ed25519 -C "chintan.sakhiya@improwied.com"
+  759  eval "$(ssh-agent -s)"
+  760  ssh-add ~/.ssh/id_ed25519
+  761  cat ~/.ssh?id_ed25519.pub
+  762  cat ~/.ssh/id_ed25519.pub
+  763  rm -r .git
+  764  ls
+  765  git init
+  766  git add .
+  767  git commit -m "first commit"
+  768  git branch -M main
+  769  git git remote add origin git@github.com:chintansakhiya/first-repository.git
+  770  git remote add origin git@github.com:chintansakhiya/first-repository.git
+  771  git push -u origin main
+  772  git log
+  773  touch file1 file2 file2
+  774  git status
+  775  git add file1
+  776  git status
+  777  git commit -m "add one file"
+  778  git push -u origin main
+  779  git status
+  780  git add .
+  781  git commit
+  782  git push -u origin main
+  783  git branch b1
+  784  git logs
+  785  nano file1
+  786  git switch b1
+  787  git push -u b1
+  788  git push -u origin b1
+  789  git add file1
+  790  git commit -m "change"
+  791  git push -u b1
+  792  git push -u origin b1
+  793  nano file2
+  794  ls
+  795  git add file2
+  796  git commit -m "file2"
+  797  git puch -u origin b1
+  798  git log
+  799  git push -help
+  800  git switch main
+  801  git log
+  802  git status
+  803  git log
+  804  cat file1
+  805  git switch main
+  806  cat file1
+  807  git checkout 7664491
+  808  cat file2
+  809  cat file1
+  810  git switch main
+  811  git file1
+  812  cat file1
+  813  git status
+  814  git diff main b1
+  815  nano file`
+  816  nano file1
+  817  ls
+  818  git add file1
+  819  git commit -m "change"
+  820  git push -u origin main
+  821  git diff main b1
+  822  nano file1
+  823  git add file1
+  824  git commit -m "file 1 change"
+  825  git push -u origin main
+  826  cat file1
+  827  git switch b1
+  828  cat file1
+  829  git diff main b1
+  830  git diff b1 main
+  831  nano file1
+  832  git add file1
+  833  git commit -m "file1 change in b1"
+  834  git push -u origin b1
+  835  git diff b1 main
+  836  cat file1
+  837  git diff b1 main
+  838  git status -s
+  839  git switch main
+  840  git status -s
+  841  git status --short
+  842  git diff --stage
+  843  git diff --staged
+  844  git diff 
+  845  git diff b1 main --staged
+  846  git diff --staged b1 main
+  847  git diff b1 main 
+  848  git push -u origin b1
+  849  git push -u origin b1 >> ../ ps
+  850  ps
+  851  git log -1
+  852  ls
+  853  lcd Documents
+  854  cd Documents
+  855  git push -u origin b1 >> ../Desktop/f1
+  856  cd..
+  857  cd ..
+  858  cd Desktop
+  859  ls
+  860  cat f1
+  861  git log
+  862  cd .. cd Doc
+  863  cd .. 
+  864  cd Documents
+  865  ls
+  866  git log
+  867  cd Desktop
+  868  ls
+  869  git log >> ../Desktop/logs
+  870  ls
+  871  cat logs
+  872  git log --oneline
+  873  git log --start
+  874  git log --stat
+  875  git log --patch
+  876  git log --stat
+  877  sudo adduser -a -G wheel chintan.sakhiya
+  878  sudo usemodr -a -G wheel chintan.sakhiya
+  879  sudo usermod -a -G wheel chintan.sakhiya
+  880  cat etc/groups
+  881  cat etc/group
+  882  cat /etc/group
+  883  cat /etc/group | grep chintan
+  884  p
+  885  top
+  886  kill 3226
+  887  top
+  888  cd Documents
+  889  ls
+  890  ls -l
+  891  du
+  892  size
+  893  find
+  894  find -size 10
+  895  find -size 100
+  896  find -size 1
+  897  git status
+  898  git clean
+  899  git clean -i
+  900  ls
+  901  git log
+  902  git switch b1
+  903  git logs
+  904  cat file1
+  905  cat file2
+  906  git switch main
+  907  cat file1
+  908  cat file2
+  909  git diff main b1
+  910  nano file1
+  911  git status
+  912  git clean -i
+  913  git status
+  914  git clean 
+  915  git clean in
+  916  git clean in-n
+  917  git clean -n
+  918  git status
+  919  git commit -m "direct add"
+  920  git commit -a  -m "direct add"
+  921  git log
+  922  git push origin main
+  923  git log
+  924  git diff main b1
+  925  git -h
+  926  git log --graph
+  927  git log --graph >> ../Desktop graph
+  928  cd Desktop
+  929  ls
+  930  cat logs
+  931  nano logd
+  932  ls
+  933  vim log
+  934  vim logs
+  935  wq
+  936  git checkout 2126529a9a4954972bee4dd635ca95a77f22220f
+  937  git log
+  938  git switch main
+  939  git logs
+  940  ls
+  941  touch file3
+  942  git commit -a -m "file3 added"
+  943  git clean -i
+  944  ls
+  945  export
+  946  name { echo :"chintan";}
+  947  name { echo :"chintan"; }
+  948  name() { echo :"chintan"; }
+  949  name
+  950  export -f name
+  951  bash
+  952  namee() { echo "chintan.sakhiya" }
+  953  namee
+  954  export -f namee
+  955  export -h
+  956  export -f
+  957  export -f namee
+  958  export -p namee
+  959  namee
+  960  export -p
+  961  export -f namee
+  962  nameee () { echo "hiii"; }
+  963  export -f nameee
+  964  export name
+  965  export namee
+  966  export nameee
+  967  bush
+  968  bash
+  969  bush
+  970  bash
+  971  name
+  972  name () { echo "hii": }
+  973  name
+  974  name () { echo "hii"; }
+  975  name
+  976  export name
+  977  bash
+  978  ls
+  979  name
+  980  nmaee
+  981  name
+  982  namee
+  983  nameee
+  984  x=hii
+  985  export x
+  986  printenv x
+  987  bash
+  988  exit
+  989  clean
+  990  clear
+  991  git branch
+  992  ipcongig
+  993  ipconfig
+  994  ipconfig -a
+  995  ifconfig -a
+  996  ip addr (ip a)
+  997  ip addr(ip a)
+  998  ifconfig
+  999  ifconfig -a
+ 1000  cd Desktop/
+ 1001  ls
+ 1002  cat f1
+ 1003  hiiii >> f1
+ 1004  "hiiii" >> f1
+ 1005  f1 >> "hiii"
+ 1006  history
+ 1007  history | grep repo
+ 1008  echo "hiii"
+ 1009  echo "hiii" > f1
+ 1010  catf1
+ 1011  cat f1
+ 1012  cd Documents
+ 1013  ls
+ 1014  touch file3
+ 1015  git add file3
+ 1016  git status
+ 1017  git restore file3
+ 1018  git status
+ 1019  git restore --staged file3
+ 1020  git status
+ 1021  git clean
+ 1022  git clean -i
+ 1023  git log
+ 1024  git reset --mixed HEAD~1
+ 1025  ls
+ 1026  git status
+ 1027  git log
+ 1028  git add file1
+ 1029  git commit -m "new change" 
+ 1030  git puch origin main
+ 1031  git push origin main
+ 1032  git log
+ 1033  git push origin main
+ 1034  git log
+ 1035  git switch b1
+ 1036  git log
+ 1037  git switch main
+ 1038  git status
+ 1039  git pull
+ 1040  git status
+ 1041  git status main
+ 1042  git pull main
+ 1043  git status
+ 1044  git log
+ 1045  git pull origin main
+ 1046  git log
+ 1047  git pull
+ 1048  git push origin main
+ 1049  git pul
+ 1050  git pull
+ 1051  git reset --mixed HEAD~1
+ 1052  git log
+ 1053  git pull
+ 1054  git log
+ 1055  git statud
+ 1056  git add
+ 1057  git add file1
+ 1058  git status
+ 1059  git commit
+ 1060  git status
+ 1061  git pull
+ 1062  git config pull.rebase
+ 1063  git status
+ 1064  git pull -h
+ 1065  git pull -a
+ 1066  git pull.ff
+ 1067  git config pull.ff
+ 1068  git log
+ 1069  git switch origin main
+ 1070  git switch origin
+ 1071  git pull
+ 1072  git config --globle
+ 1073  git config --global
+ 1074  git config --global file1
+ 1075  git config --global 
+ 1076  git log
+ 1077  git push orgin main
+ 1078  git push orgine main
+ 1079  git push origin main
+ 1080  git checkout -b FixForBug origin/dev
+ 1081  git checkout -b FixForBug origin/main
+ 1082  git pull --rebase
+ 1083  git push -f origin FixForBug
+ 1084  git log
+ 1085  git witch main
+ 1086  git log
+ 1087  git checkout origin/main
+ 1088  git log
+ 1089  git checkout -b main origin/main
+ 1090  git breanch
+ 1091  git marge main FixForBug 
+ 1092  git log
+ 1093  git switch main
+ 1094  git merge FixforBug main
+ 1095  git merge FixforBug 
+ 1096  git log
+ 1097  git branch
+ 1098  git checkout 415d9005
+ 1099  git checkout 415d905
+ 1100  git log
+ 1101  git switch FixForBUg
+ 1102  git switch FixForBug
+ 1103  git mearge main
+ 1104  git log
+ 1105  git swich main
+ 1106  git push origin main
+ 1107  rm -m .git
+ 1108  rm -r .git
+ 1109  git init
+ 1110  gh repo clone chintansakhiya/first-repository
+ 1111  gh auth login
+ 1112  git clone git@github.com:chintansakhiya/first-repository.git
+ 1113  git log
+ 1114  history | grep .git
+ 1115  git branch -M main
+ 1116  git status
+ 1117  git add .
+ 1118  git pull
+ 1119  git pull main
+ 1120  git add .
+ 1121  git commit -m "first push"
+ 1122  git push origin main
+ 1123  git log
+ 1124  history | grep .git
+ 1125  git remote add origin git@github.com:chintansakhiya/first-repository.git
+ 1126  git push origin main
+ 1127  git log
+ 1128  git checkout origin/main
+ 1129  git pull
+ 1130  git log
+ 1131  git branch
+ 1132  git pull main origin/main
+ 1133  git pull origin/main
+ 1134  git pull main
+ 1135  git pull b1
+ 1136  git remot -v
+ 1137  git push -u origin master
+ 1138  git push -u origin main
+ 1139  git remote set-url origin git@github.com:chintansakhiya/first-repository.git
+ 1140  git log
+ 1141  git checkout -b main origin/main
+ 1142  git checkout -b newmain origin/main
+ 1143  git log
+ 1144  awk
+ 1145  git add .
+ 1146  git log
+ 1147  git status
+ 1148  git restore ==staged first-repository
+ 1149  git restore --staged first-repository
+ 1150  git log
+ 1151  git status
+ 1152  git add .
+ 1153  git status
+ 1154  fit commit -m "repo add"
+ 1155  git commit -m "repo add"
+ 1156  git push origin main
+ 1157  git log
+ 1158  git pul
+ 1159  git pull
+ 1160  git log
+ 1161  git push origin main
+ 1162  git config.ff
+ 1163  git config .ff
+ 1164  git tree
+ 1165  git mktree
+ 1166  rm -r .git
+ 1167  ls -A
+ 1168  ls -a
+ 1169  rm -r first-repository
+ 1170  rm -r git
+ 1171  rm -r .git
+ 1172  ls
+ 1173  ls -a
+ 1174  rm -r .first-repository
+ 1175  rm -r first-repository
+ 1176  ls -a
+ 1177  ls 
+ 1178  rm -r .git
+ 1179  ls -a
+ 1180  rm -r .git
+ 1181  ls -a
+ 1182  rm -r .git
+ 1183  ls -a
+ 1184  rm -r .git
+ 1185  ls -a
+ 1186  cd .git
+ 1187  rm -r .git
+ 1188  ls
+ 1189  rm -r objects
+ 1190  y
+ 1191  ls
+ 1192  rmdir objects
+ 1193  rm -r objects
+ 1194  cd..
+ 1195  cd ..
+ 1196  ls
+ 1197  ls -a
+ 1198  rmdir .git
+ 1199  rmdir -r .git
+ 1200  rm -rf .git
+ 1201  ls
+ 1202  ls -a
+ 1203  history | grap chintan
+ 1204  history | grep chintan
+ 1205  open www.google.com
+ 1206  open http://www.google.com
+ 1207  cd Documents
+ 1208  ls
+ 1209  ls -a
+ 1210  sudo shutdowm
+ 1211  sudo shutdowm now
+ 1212  sudo shutdown -c
+ 1213  shutdown
+ 1214  shutdown now
+ 1215  cd Documents
+ 1216  ls
+ 1217  ls -a
+ 1218  git init
+ 1219  git commit -m "first commit" 
+ 1220  git add .
+ 1221  git commit -m "first commit" 
+ 1222  git branch -M main
+ 1223  git remote add origin git@github.com:chintansakhiya/first_repository.git
+ 1224  git push -u origin main
+ 1225  git status
+ 1226  git log
+ 1227  ls
+ 1228  cd try
+ 1229  ls
+ 1230  cd ..
+ 1231  rm -r try
+ 1232  git status
+ 1233  mkdir f1
+ 1234  ls
+ 1235  cd f1
+ 1236  touch f1 f2
+ 1237  cd ..
+ 1238  git status
+ 1239  git add f1
+ 1240  git commit -m "add folder" 
+ 1241  git push -u origin main
+ 1242  cat file1
+ 1243  git branch b1
+ 1244  git branch
+ 1245  git switch b1
+ 1246  nano file1
+ 1247  git add file1
+ 1248  git status
+ 1249  git stash
+ 1250  git switch main
+ 1251  nano file2
+ 1252  git add file2
+ 1253  git commit -m "edit in file2"
+ 1254  git push -u origin main
+ 1255  git switch b1
+ 1256  git stash pop
+ 1257  git add file1
+ 1258  git status
+ 1259  git commit -m "edit file1 in b1"
+ 1260  git push -u origin main
+ 1261  git push -u origin b1
+ 1262  nano file1
+ 1263  git stush
+ 1264  git log
+ 1265  git switch main
+ 1266  git log
+ 1267  git stush pop
+ 1268  git stush 
+ 1269  git stash 
+ 1270  git switch b1
+ 1271  git marge
+ 1272  git merge file1
+ 1273  git merge b1
+ 1274  git add file1
+ 1275  git merge file1 
+ 1276  git merge b1
+ 1277  git commit -m "edix"
+ 1278  git push -u origin main
+ 1279  git log
+ 1280  cat file1
+ 1281  git switch b1
+ 1282  cat file1
+ 1283  git switch main
+ 1284  nano file1
+ 1285  git add file1
+ 1286  git commit -m "file1 edited"
+ 1287  git push -u origin main
+ 1288  git log
+ 1289  git chechout b1
+ 1290  git log
+ 1291  git switch main
+ 1292  git log
+ 1293  git lof
+ 1294  less
+ 1295  less file1
+ 1296  diff file1 file2
+ 1297  git status
+ 1298  cat file1
+ 1299  switch b1
+ 1300  git switch b1
+ 1301  cat file1
+ 1302  git merge main
+ 1303  nano file1
+ 1304  git merge main
+ 1305  git status
+ 1306  git add .
+ 1307  git status
+ 1308  git merge main
+ 1309  git commit -m "going to merge"
+ 1310  git merge main
+ 1311  cat file1
+ 1312  git log
+ 1313  git switch main
+ 1314  git log
+ 1315  cat file1
+ 1316  git branch b2
+ 1317  git switch b2
+ 1318  cat file1
+ 1319  nano file1
+ 1320  git add file1
+ 1321  git commit -m "file1 edited"
+ 1322  nano file1
+ 1323  git add file1
+ 1324  git commit -m "edit file1"
+ 1325  git merge main
+ 1326  cat file1
+ 1327  git loh
+ 1328  ping www.google.com
+ 1329  ifconfig
+ 1330  clear
+ 1331  git checkout main
+ 1332  git log
+ 1333  git switch b2
+ 1334  git checkout b2
+ 1335  git switch b1
+ 1336  git checkout b2
+ 1337  netstar
+ 1338  netstat
+ 1339  clear
+ 1340  git switch main
+ 1341  git switch b1
+ 1342  git push origin b1
+ 1343  git status
+ 1344  git tree
+ 1345  git switch b2
+ 1346  git branch
+ 1347  git status
+ 1348  nano file1
+ 1349  git add file1
+ 1350  fit commit -m "commit from b2" 
+ 1351  git commit -m "commit from b2" 
+ 1352  git push origin b2
+ 1353  git log
+ 1354  git switch b1
+ 1355  git log
+ 1356  git reset --haed HEAD^
+ 1357  git reset --hard HEAD^
+ 1358  git log
+ 1359  git pull
+ 1360  git log
+ 1361  git reset --hard HEAD^
+ 1362  git log
+ 1363  git pull
+ 1364  git log
+ 1365  git reset --hard HEAD^
+ 1366  git push origin b1
+ 1367  git push -f origin b1
+ 1368  git log
+ 1369  git status
+ 1370  git log --onelinw
+ 1371  git log --oneline
+ 1372  git log --oneline | cat
+ 1373  git branch -d b2
+ 1374  git branch -D b2
+ 1375  git branch
+ 1376  subl file1
+ 1377  cat file1
+ 1378  git add file1
+ 1379  git commit -m "subline edit"
+ 1380  git push origin b1
+ 1381  git log
+ 1382  git log --oneline | cat
+ 1383  git switch 00baba3
+ 1384  git switch main
+ 1385  git branch
+ 1386  git log
+ 1387  git log --oneline | cat
+ 1388  git switch b1
+ 1389  git log --oneline | cat
+ 1390  git switch main
+ 1391  git merge b1
+ 1392  cd Documents
+ 1393  ls
+ 1394  git status
+ 1395  git branch
+ 1396  git switch b1
+ 1397  git commit -m "mearge"
+ 1398  git switch
+ 1399  git switch b1
+ 1400  git log --oneline | cat
+ 1401  git switch main
+ 1402  git push oringin main
+ 1403  git push origin main
+ 1404  git log --oneline | cat
+ 1405  git switch b1
+ 1406  git log --oneline | cat
+ 1407  git remote update
+ 1408  git branch
+ 1409  git switch b2
+ 1410  git log
+ 1411  git branch
+ 1412  git switch main
+ 1413  git remote update
+ 1414  ls
+ 1415  git pull
+ 1416  git log
+ 1417  git remote update
+ 1418  git remot
+ 1419  git remote
+ 1420  git push -u origin ,aim
+ 1421  git push -u origin main
+ 1422  git ls-remot
+ 1423  git ls-remote
+ 1424  git remot -v
+ 1425  git origin update
+ 1426  git remote update
+ 1427  git pull
+ 1428  git log
+ 1429  ls
+ 1430  cat file1
+ 1431  git log -p
+ 1432  git show commit-id
+ 1433  git show main
+ 1434  git log --start
+ 1435  git log --stat
+ 1436  git add -p
+ 1437  touch 1.log
+ 1438  cd .git
+ 1439  ls
+ 1440  cd info
+ 1441  ls
+ 1442  cd exclude
+ 1443  ls
+ 1444  cd exclude
+ 1445  subl exclude
+ 1446  cd ..
+ 1447  cd..
+ 1448  cd ..
+ 1449  git add 1.log
+ 1450  git commit -m "log"
+ 1451  git push origin main
+ 1452  touch 1.oa
+ 1453  ls
+ 1454  git add 1.oa
+ 1455  git commit -m "log"
+ 1456  git push origin main
+ 1457  nano 1.log
+ 1458  cd .git
+ 1459  cd info
+ 1460  subl exclude
+ 1461  cd ../../
+ 1462  git status
+ 1463  subl cd .git/info/exclude
+ 1464  git status
+ 1465  nano 1.lo
+ 1466  git status
+ 1467  git add .
+ 1468  git commit -m "log again"
+ 1469  git push origin main
+ 1470  nano 1.lo
+ 1471  nano 1.log
+ 1472  subl cd .git/info/exclude
+ 1473  git add .
+ 1474  git commit -m "log"
+ 1475  git push origin main
+ 1476  git log
+ 1477  git reset --herd HEAD f7e43ab0
+ 1478  git log
+ 1479  git reset --herd HEAD~4
+ 1480  git reset --herd HEAD~2
+ 1481  git reset --hard HEAD~2
+ 1482  git log
+ 1483  git pull
+ 1484  git log
+ 1485  git reset --hard HEAD f7e43ab09b9efc58555adcca3b5effab2d97fe45
+ 1486  git reset --hard HEAD~4
+ 1487  git log
+ 1488  git push origin main
+ 1489  git push -f origin main
+ 1490  git log
+ 1491  ls
+ 1492  git checkout 1df8213
+ 1493  ls
+ 1494  git log
+ 1495  git branch b4
+ 1496  git log
+ 1497  git switch b4
+ 1498  git push origin b4
+ 1499  git log
+ 1500  git switch main
+ 1501  ls
+ 1502  git log
+ 1503  git switch b4
+ 1504  git revert 45c8a20de2
+ 1505  ls
+ 1506  git log
+ 1507  git checkout Revert 45c8a20de2
+ 1508  git checkout 45c8a20de2
+ 1509  ls
+ 1510  git switch
+ 1511  git switch b4
+ 1512  git push origin b4
+ 1513  git log
+ 1514  git switch main
+ 1515  ls
+ 1516  touch 1 2 3 4 
+ 1517  ls
+ 1518  git status
+ 1519  git add .
+ 1520  git commit -m "add 4 files"
+ 1521  git push origin main
+ 1522  git log
+ 1523  ls
+ 1524  git log --oneline | cat
+ 1525  git revert f26f896
+ 1526  ls
+ 1527  git status
+ 1528  git add .
+ 1529  git commit -m "no idea"
+ 1530  git push origin main
+ 1531  git lof
+ 1532  ls
+ 1533  git log --oneline | cat
+ 1534  git revert e786fe9
+ 1535  ls
+ 1536  git log
+ 1537  wget
+ 1538  wget www.google.com
+ 1539  ls
+ 1540  rm index.html
+ 1541  ls
+ 1542  cd Documents
+ 1543  ls
+ 1544  git pull
+ 1545  git status --oneline | cat
+ 1546  git log --oneline | cat
+ 1547  git revert 8234e15
+ 1548  ld
+ 1549  ls
+ 1550  id
+ 1551  git branch
+ 1552  git switch b3
+ 1553  git switch b1
+ 1554  git loh --oneline | cat
+ 1555  git marge-base b1 main
+ 1556  git rebase -i 9b0f5dc8eaec3d80b617d7a1fecff1dac2dd1ecd
+ 1557  git loh --oneline | cat
+ 1558  git ckeckout main
+ 1559  git log
+ 1560  git ckeckout b1
+ 1561  git loh --oneline | cat
+ 1562  git rebase -i f26f896
+ 1563  git log --oneline | cat
+ 1564  git switch main
+ 1565  git log
+ 1566  git log --oneline | cat
+ 1567  git rebase -i f26f896
+ 1568  git status
+ 1569  cat file1
+ 1570  git add file1
+ 1571  git commit "file1 modified"
+ 1572  git commit -m "file1 modified"
+ 1573  git status
+ 1574  git rebase -i f26f896
+ 1575  git rebase --continue
+ 1576  nano file1
+ 1577  git add file1
+ 1578  git commit -m "file1 modified"
+ 1579  git rebase --continue
+ 1580  cat file1
+ 1581  git add file1
+ 1582  git commit -m "file1 modified"
+ 1583  git rebase --continue
+ 1584  git add file1
+ 1585  git commit -m "file1 modified"
+ 1586  git rebase --continue
+ 1587  git add file1
+ 1588  git commit -m "file1 modified"
+ 1589  git rebase --continue
+ 1590  git log --oneline | cat
+ 1591  man git switch 
+ 1592  ls
+ 1593  git switch b1
+ 1594  ls
+ 1595  git pull
+ 1596  git rebase main
+ 1597  git add file1
+ 1598  git commit -m "file 1 edited" 
+ 1599  git rebase --continue
+ 1600  git lof --oneline | cat
+ 1601  ls
+ 1602  cat file1
+ 1603  git switch main
+ 1604  git push origin main
+ 1605  git log
+ 1606  git push -f origin main
+ 1607  git log
+ 1608  git mktree
+ 1609  cd Desktop
+ 1610  git init
+ 1611  ls
+ 1612  git add .
+ 1613  git commit
+ 1614  git log --oneline
+ 1615  nano log
+ 1616  git add log
+ 1617  git commit -m "log edit"
+ 1618  git tree
+ 1619  git write-tree 
+ 1620  git log -h
+ 1621  git log --all --decorate --oneline --graph
+ 1622  git log --all --decorate --graph
+ 1623  git log --all --graph --oneline
+ 1624  git log --graph --oneline
+ 1625  git log --graph --oneline --all
+ 1626  rm -rf .git
+ 1627  ls -a
+ 1628  git init
+ 1629  git pull origin main
+ 1630  git add .
+ 1631  git commit -m "first commit"
+ 1632  git log --graph --oneline --all
+ 1633  nano 1
+ 1634  git add 1
+ 1635  git commit -m "edit 1"
+ 1636  nano 2
+ 1637  git add
+ 1638  git add .
+ 1639  git commit -m "edited file2"
+ 1640  git log --graph --oneline --all
+ 1641  git checkout -b b1
+ 1642  touch b1
+ 1643  git add b1
+ 1644  git commit -m "b1 added"
+ 1645  nano b1
+ 1646  git add b1
+ 1647  git commit -m "b1 file edited"
+ 1648  git log --graph --oneline --all
+ 1649  git log --all --decorate --oneline --graph
+ 1650  git log --all --decorate --graph
+ 1651  git switch master
+ 1652  touch master
+ 1653  git add master
+ 1654  git commit -m "add master file"
+ 1655  git log --all --decorate --oneline --graph
+ 1656  git switch b1
+ 1657  touch b11
+ 1658  git add b11
+ 1659  git commit -m "add b11"
+ 1660  git log --all --decorate --oneline --graph
+ 1661  git switch master
+ 1662  touch master1
+ 1663  git add master1
+ 1664  git commit -m "master1 added"
+ 1665  git log --all --decorate --oneline --graph
+ 1666  git switch b1
+ 1667  git log --all --decorate --oneline --graph
+ 1668  git log --all --oneline --graph
+ 1669  git log --all --graph
+ 1670  git log --all --graph --oneline
+ 1671  awk
+ 1672  ls -l
+ 1673  ls -la
+ 1674  cd .
+ 1675  touch 1.sh
+ 1676  ls -la
+ 1677  git add 1.sh                                                                                                                                                                                                                                                                                                                                                                                             
+ 1678  git commit -m "add sh filw"
+ 1679  git log --oneline --graph --all
+ 1680  ls
+ 1681  ls ~l
+ 1682  ls -s
+ 1683  vi 1
+ 1684  cd ..
+ 1685  ccd Desktop
+ 1686  ls
+ 1687  histroy && grap chintan
+ 1688  histroy
+ 1689  history
+ 1690  history $$ grep chintan
+ 1691  cd Desktop
+ 1692  cd ..
+ 1693  ls
+ 1694  history $$ grep chintan
+ 1695  history || grep chintan
+ 1696  history $$ cd Desktop
+ 1697  history $$ 
+ 1698  hcitool
+ 1699  hcitool dev
+ 1700  history $
+ 1701  history $$
+ 1702  history $$ 1
+ 1703  history $$ 10
+ 1704  history >> 1.txt
+ 1705  1.txt $$ 10
+ 1706  1.txt $ 10
+ 1707  history $ 10
+ 1708  history $ 10df -H
+ 1709  df -H
+ 1710  git branch
+ 1711  rm -rf .git
+ 1712  ls
+ 1713  touch 1.txt
+ 1714  git init
+ 1715  git add .
+ 1716  git commit -"first commit"
+ 1717  git commit -m "first commit"
+ 1718  git log
+ 1719  git checkout -b b1
+ 1720  nano 1.txt
+ 1721  git add 1.txt
+ 1722  git commit -m "file1 edited"
+ 1723  git switch master
+ 1724  nano 1.txt
+ 1725  rm -rf .git
+ 1726  ls
+ 1727  git init
+ 1728  top
+ 1729  top | grep chintan
+ 1730  df -H
+ 1731  df -h
+ 1732  df --help
+ 1733  git status
+ 1734  ls
+ 1735  cat 1.txtx
+ 1736  cat 1.txt
+ 1737  rm 1
+ 1738  rm 1.txt
+ 1739  cd ..
+ 1740  ls
+ 1741  cd sensei
+ 1742  sudo cd sensei
+ 1743  cd 
+ 1744  touch 1
+ 1745  ls
+ 1746  sudo rm 1
+ 1747  ls
+ 1748  cat etc/groups
+ 1749  cat etc/group
+ 1750  cat /etc/group | grep chintan
+ 1751  cd ..
+ 1752  ls
+ 1753  cd ..
+ 1754  ls
+ 1755  cd etc
+ 1756  ls
+ 1757  cd gropus
+ 1758  cat gropus
+ 1759  cat gropu
+ 1760  cat groups
+ 1761  cat group
+ 1762  cd ..
+ 1763  ls
+ 1764  cd
+ 1765  cd ..
+ 1766  ls
+ 1767  cd sensei
+ 1768  sudo cd sensei
+ 1769  sudo -s cd sensei
+ 1770  ls
+ 1771  sudo -D cd sensei
+ 1772  cd garuda
+ 1773  ls
+ 1774  ls -a
+ 1775  cd ..
+ 1776  cd sensei
+ 1777  sudo cd sensei
+ 1778  sudo -s cd sensei
+ 1779  sudo rm -r sensei
+ 1780  ls
+ 1781  cd ..
+ 1782  ls
+ 1783  cd 
+ 1784  cat /etc/gropus
+ 1785  cat /etc/groups
+ 1786  cat /etc/group
+ 1787  cat /etc/group | grep sen
+ 1788  cd ..
+ 1789  ls
+ 1790  cd chintan.sakhiya
+ 1791  ls
+ 1792  cd ..
+ 1793  ls
+ 1794  cd garuda
+ 1795  ls
+ 1796  cd ..
+ 1797  cd chintan.sakhiya
+ 1798  ls
+ 1799  cd ..
+ 1800  ls
+ 1801  history
+ 1802  top
+ 1803  kill 3387
+ 1804  pgrep
+ 1805  pgrep chrome
+ 1806  kill 3803
+ 1807  kill -15 3803
+ 1808  kill -9 3803
+ 1809  kill 3803
+ 1810  pgrep chrome
+ 1811  kill 2258
+ 1812  ls
+ 1813  cd Dco
+ 1814  cd Documents
+ 1815  ls
+ 1816  ls -l
+ 1817  chmod u=rwx,g=rwx,o+rx 1.sh
+ 1818  ls -l
+ 1819  chmod u=rwx,g=rwx,o+rwx 1.sh 
+ 1820  ls -l
+ 1821  umask u=rwx,g=rwx,o=rx 2.sh
+ 1822  ls
+ 1823  umask u=rwx,g=rwx,o+rx 2.sh
+ 1824  umask u=rwx 2.sh
+ 1825  umask 002
+ 1826  ls
+ 1827  ls -l
+ 1828  cd ..
+ 1829  setfacl -PRdm u::rwx,g::rw,o::r Documents
+ 1830  ls -l
+ 1831  cd Documents
+ 1832  ls -l
+ 1833  setfacl -PRdm u::rwx,g::rw,o::r /Documents
+ 1834  cd ..
+ 1835  setfacl -PRdm u::rwx,g::rxw,o::r /Documents
+ 1836  setfacl -PRdm u::rwx,g::rxw,o::r Documents
+ 1837  ls -l
+ 1838  cd Documents
+ 1839  ls -l
+ 1840  setfacl -PRdm u::rwx,g::rxw,o::r 1
+ 1841  ls -l
+ 1842  cd ..
+ 1843  setfacl -d -m g::rwx /Document
+ 1844  setfacl -d -m g::rwx /Documents
+ 1845  setfacl -d -m g::rwx Documents
+ 1846  cd Documents
+ 1847  ls -l
+ 1848  cd f1
+ 1849  ls
+ 1850  ls -l
+ 1851  cd ..
+ 1852  find Documents/* -type f -exec chmod 644 {} \;
+ 1853  cd ..
+ 1854  cd 
+ 1855  cd Documents
+ 1856  ls -l
+ 1857  find ./* -type f -exec chmod 777 {} \;
+ 1858  ls -l
+ 1859  cd f1
+ 1860  ls -l
+ 1861  cd ..
+ 1862  find ./* -type f -exec chmod 644 {} \;
+ 1863  find 1 -type f -exec chmod 777 {} \;
+ 1864  ls -l
+ 1865  cd ..
+ 1866  ls
+ 1867  cd sensei
+ 1868  sudo cd sensei
+ 1869  bush
+ 1870  exit
+ 1871  bash fish
+ 1872  bash 
+ 1873  cd ..
+ 1874  ls
+ 1875  cd
+ 1876  ls
+ 1877  id
+ 1878  find ./* -type f -exec chmod 777 {} \;
+ 1879  cd Desktop
+ 1880  ls
+ 1881  ls -l
+ 1882  cd ..
+ 1883  find ./* -type f -exec chmod 644 {} \;
+ 1884  cd Desktop
+ 1885  ls
+ 1886  ls -l
+ 1887  which passwd
+ 1888  ls -l /usr/bin/passwd
+ 1889  job
+ 1890  du
+ 1891  fd -h
+ 1892  df -h
+ 1893  mkdir -v {1-10}
+ 1894  ls 
+ 1895  mkdir -v {1-10,2}
+ 1896  ls
+ 1897  ls -l
+ 1898  mkdir -v {1-10,2}
+ 1899  ls
+ 1900  cd 2
+ 1901  for i in {1..100}; do echo file$i > file$i.txt; done;
+ 1902  cd 2
+ 1903  ls
+ 1904  for i in {1..100}; do rm file$i; done;
+ 1905  for i in {1..100}; do rm file$i.txt; done;
+ 1906  ls
+ 1907  for i in {1..100}; do mkdir file$i; done;
+ 1908  ls
+ 1909  for i in {1..100}; do mkdir file$i*100; done
+ 1910  for i in {1..100}; do mkdir file$(i*100); done
+ 1911  for i in {1..100}; do mkdir file$(i*100); done:
+ 1912  for i in {1..100}; do mkdir file$(i*100); done;
+ 1913  for i in {1..100}; do rmdir file$i; done;
+ 1914  ls
+ 1915  for i in {1..100}; do mkdir file$i; done
+ 1916  ls
+ 1917  cd ...
+ 1918  cd Documents
+ 1919  cd 2
+ 1920  ls
+ 1921  cd f1
+ 1922  cd ....
+ 1923  ls
+ 1924  sudo cp sensei/* chintan.sakhiya/sensei
+ 1925  sudo cp sensei/ chintan.sakhiya/sensei
+ 1926  sudo cp sensei/8 chintan.sakhiya/sensei
+ 1927  sudo cp sensei/Document chintan.sakhiya/sensei
+ 1928  sudo cp sensei/Documents chintan.sakhiya/sensei
+ 1929  sudo cp -r sensei/ chintan.sakhiya/sensei
+ 1930  cd chintan.sakhiya
+ 1931  ls
+ 1932  cd sensei
+ 1933  ls -l
+ 1934  chown chintan.sakhiya: sensei
+ 1935  sudo chown chintan.sakhiya: sensei
+ 1936  ls
+ 1937  ls -l
+ 1938  ls |wc
+ 1939  ls -l |wc
+ 1940  ls -ih
+ 1941  ls -lh
+ 1942  ln
+ 1943  ln Desktop/
+ 1944  du
+ 1945  cd Desktop
+ 1946  du
+ 1947  du -h
+ 1948  free
+ 1949  free -h
+ 1950  du -c
+ 1951  du -ch
+ 1952  du -ch -BG
+ 1953  du -ch 
+ 1954  free -h
+ 1955  free -h -s 2
+ 1956  cd Documents
+ 1957  ls
+ 1958  git status
+ 1959  chmod -r 777 ./*
+ 1960  chmod -R 777 ./*
+ 1961  ls -l
+ 1962  chmod -R 700 
+ 1963  cd ..
+ 1964  chmod -R 700 Documents
+ 1965  ls -l
+ 1966  cd Documents
+ 1967  ls -l
+ 1968  setfacl -d -m g::rwx 
+ 1969  s
+ 1970  setfacl -d -m g::rwx 
+ 1971  setfacl -d -m 700 ./
+ 1972  history >> f1.txt
+ 1973  grep < cat f1.tex
+ 1974  grep < cat f1.txt
+ 1975  grep chintan< cat f1.txt
+ 1976  grep chintan< f1.txt
+ 1977  f1.txt &&
+ 1978  history & 
+ 1979  history & &
+ 1980  history & 
+ 1981  history && 10 
+ 1982  history || 10 
+ 1983  history & 10 
+ 1984  history | 10 
+ 1985  history || 10 
+ 1986  history || cd f1
+ 1987  ls
+ 1988  cd f1
+ 1989  ls
+ 1990  makdir file{1..50}
+ 1991  mkdir file{1..50}
+ 1992  ls
+ 1993  mkdir file{1..50}/
+ 1994  ls
+ 1995  cd file1
+ 1996  ls
+ 1997  cd ..
+ 1998  mkdir file{1..50} /
+ 1999  rmdir file{1..50} 
+ 2000  ls
+ 2001  mkdir 1
+ 2002  ls
+ 2003  mkdir 1
+ 2004  ls -l
+ 2005  mkdir 1
+ 2006  ls -l
+ 2007  touch 1
+ 2008  ls -l
+ 2009  touch 2
+ 2010  ls -l
+ 2011  touch 2.txt
+ 2012  ls -l
+ 2013  mkdir 1
+ 2014  ls -l
+ 2015  setfacl -d -m g::rwx 
+ 2016  setfacl -d -m g::rwx  f1
+ 2017  setfacl -d -m g::rwx  ./
+ 2018  ls -l
+ 2019  setfacl -d -m g::rwx  ./*
+ 2020  ls -l
+ 2021  cd ..
+ 2022  ls
+ 2023  rm ./*
+ 2024  ls 
+ 2025  rm -r ./*
+ 2026  ls
+ 2027  mkdir file1
+ 2028  ls
+ 2029  setfacl -m d:o:rx file1
+ 2030  cd file1
+ 2031  touch 1
+ 2032  ls -l
+ 2033  setfacl -d -m g::rwx ./
+ 2034  setfacl -d -m o:rwx ./
+ 2035  setfacl -d -m u:rx ./
+ 2036  setfacl -d -m u:r-x ./
+ 2037  setfacl -d -m u:5 ./
+ 2038  touch f1
+ 2039  ls -l
+ 2040  setfacl -d -m u:rw ./
+ 2041  setfacl -d -m u:rwx ./
+ 2042  setfacl -d -m u:chintan.sakhiya:rwx ./
+ 2043  setfacl -d -m u:chintan.sakhiya:r ./
+ 2044  touch f2
+ 2045  ls -l
+ 2046  setfacl -d -m g:: ./
+ 2047  setfacl -d -m g::0 ./ 
+ 2048  setfacl -d -m o:0 ./ 
+ 2049  setfacl -d -m u::7 ./ 
+ 2050  touch f3
+ 2051  ls -l
+ 2052  ping 192.168.1.2
+ 2053  ping 192.168.1.100
+ 2054  ifcinfig
+ 2055  ifconfig
+ 2056  ip 
+ 2057  ip (ip add)
+ 2058  ip add
+ 2059  git checkout -
+ 2060  ls
+ 2061  cat > 1.txt
+ 2062  cat > 2.txt
+ 2063  cat > 3.txt
+ 2064  head 3.txt
+ 2065  tail 3.txt
+ 2066  tail -f 4 3.tex
+ 2067  tail -f 3.tex
+ 2068  tail -f 3.txt
+ 2069  tail 5 3.txt
+ 2070  ls
+ 2071  cat 1
+ 2072  cat 1.txt
+ 2073  chmod 300 1.txt
+ 2074  cat 1.txt
+ 2075  sudo cat 1.txt
+ 2076  nano cat 1.txt
+ 2077  chmod 700 1.txt
+ 2078  cat 1.txt
+ 2079  cd ...
+ 2080  touch 1.txt
+ 2081  ls -l
+ 2082  rm 1.txt
+ 2083  cd ...
+ 2084  ls 
+ 2085  passwd
+ 2086  cd root
+ 2087  sudp cp root home/chintan.sakhiya/
+ 2088  sudo cp root home/chintan.sakhiya/
+ 2089  sudo cp -r root home/chintan.sakhiya/
+ 2090  cd
+ 2091  ls
+ 2092  ls -l
+ 2093  chown chintan.sakhiya:chintan.sakhiya root
+ 2094  sudo chown chintan.sakhiya:chintan.sakhiya root
+ 2095  cd root
+ 2096  ls
+ 2097  ls -a
+ 2098  cd ....
+ 2099  ls
+ 2100  history | grep passwd
+ 2101  which passwd
+ 2102  cd usr/bin/db5.3/passwd
+ 2103  cd usr/bin
+ 2104  ls
+ 2105  cd usr/bin/db5.3/passwd
+ 2106  cd usr/bin/passwd
+ 2107  cat usr/bin/passwd
+ 2108  cp passwd ../../../home/chintan.sakhiya/Desktop
+ 2109  cd
+ 2110  ls
+ 2111  cd Desktop
+ 2112  ls
+ 2113  ls -l
+ 2114  cat passwd
+ 2115  subl passwd
+ 2116  sudo -i
+ 2117  cat etc/groups
+ 2118  ls
+ 2119  cat /etc/groups
+ 2120  cd ..
+ 2121  cat /etc/groups
+ 2122  cat etc/groups
+ 2123  cat etc/group
+ 2124  cd
+ 2125  cat etc/group
+ 2126  cat /etc/group
+ 2127  cat /etc/shadow
+ 2128  sudo cat /etc/shadow
+ 2129  sudo cat /etc/passwd
+ 2130  sudo cat /etc/shadow
+ 2131  ncp_crypt -decrypt -password $6$yzlV4idsp3qs11IK$XH7WSdNQuISXxm/.aVoHN5IdTLU7YJ7W9rcyvzvN6rGc0gAzo54iwJh5xvzjKcA564InmTVFaxw5Ye5FHbMw4
+ 2132  pacmen
+ 2133  pacman
+ 2134  pacman ncp_crypt
+ 2135  pacman -h
+ 2136  htop
+ 2137  ps -e
+ 2138  ps -A
+ 2139  iotop
+ 2140  pidstat
+ 2141  htop
+ 2142  ls
+ 2143  cd Documents
+ 2144  ls
+ 2145  touch 1.txt
+ 2146  sudo -i
+ 2147  passwd chintan.sakhiya
+ 2148  sudo passwd chintan.sakhiya
+ 2149  bush
+ 2150  bash
+ 2151  pass
+ 2152  passwd
+ 2153  sudo passwd
+ 2154  sudo passwd chintan.sakhiya
+ 2155  sudo passwd chintan
+ 2156  sudo passwd 
+ 2157  sudo passwd
+ 2158  passwd
+ 2159  sudo passwd -e chintan.sakhiya
+ 2160  cat /etc/passwd
+ 2161  sudo passwd -e chintan.sakhiya
+ 2162  sudo passwd -e chintan.skahiya
+ 2163  cat /etc/users
+ 2164  cat /etc/user
+ 2165  cat /etc/group
+ 2166  cat /etc/user | grep chintan
+ 2167  cat /etc/groups | grep chintan
+ 2168  cat /etc/group
+ 2169  cat /etc/group | grep chintan
+ 2170  history | grep chintan.skahiya
+ 2171  sudo userdel chintan.skahiya
+ 2172  history | grep chintan.skahiya
+ 2173  cat /etc/group | grep chintan
+ 2174  sudo passwd -e chintan.sakhiya
+ 2175  passwd
+ 2176  passwd chintan.sakhiya
+ 2177  sudo passwd chintan.sakhiya
+ 2178  sudo passwd
+ 2179  cd
+ 2180  sudo passwd
+ 2181  base
+ 2182  bash
+ 2183  ls
+ 2184  ls -l
+ 2185  rm -r root sensei
+ 2186  rm -rf root sensei
+ 2187  chown -R chintan.sakhiya chintan.sakhiya sensei
+ 2188  cd sensei
+ 2189  ls
+ 2190  ls -a
+ 2191  ls -al
+ 2192  chown -R chintan.sakhiya chintan.sakhiya .cache
+ 2193  cd ..
+ 2194  sudo chown -R chintan.sakhiya chintan.sakhiya sensei
+ 2195  sudo chown -R chintan.sakhiya:chintan.sakhiya sensei
+ 2196  sudo chown -R chintan.sakhiya:chintan.sakhiya root
+ 2197  rm -r root sensei
+ 2198  ls -a
+ 2199  ls 
+ 2200  cd Documents
+ 2201  git diff
+ 2202  git status
+ 2203  ls
+ 2204  git add .
+ 2205  git commit -m "modified"
+ 2206  ls
+ 2207  git log --oneline
+ 2208  git branch
+ 2209  git log --oneline --graph --all
+ 2210  git checkout -
+ 2211  ls
+ 2212  git merge main
+ 2213  git merge master
+ 2214  ls
+ 2215  git log --oneline --graph --all
+ 2216  touch 2.txt
+ 2217  git add 2.txt
+ 2218  git commit -m "2.txt added"
+ 2219  git log --oneline --graph --all
+ 2220  history
+ 2221  env
+ 2222  cd Documents
+ 2223  ls
+ 2224  getfactl
+ 2225  getfacl 1.sh
+ 2226  cd file1
+ 2227  ls
+ 2228  ls-l
+ 2229  ls -l
+ 2230  touch 123.txt
+ 2231  ls -l
+ 2232  setfacl u:chintan.sakhiya:wx ./
+ 2233  setfacl -m u:chintan.sakhiya:wx ./
+ 2234  setfacl -m g:chintan.sakhiya:r ./
+ 2235  touch 1234.txt
+ 2236  ls -l
+ 2237  setfacl -x u:chintan.sakhiya:wx ./
+ 2238  setfacl -X u:chintan.sakhiya:wx ./
+ 2239  cd ..
+ 2240  setfacl -b u:chintan.sakhiya:wx ./
+ 2241  setfacl -b u:chintan.sakhiya:wx file1
+ 2242  setfacl -b u:chintan.sakhiya:wx /file1
+ 2243  setfacl -b u:chintan.sakhiya:wx file1
+ 2244  setfacl -m u:chintan.sakhiya:--- file1
+ 2245  cd file1
+ 2246  ls -l
+ 2247  touch 12345.txtx
+ 2248  ls -l
+ 2249  setfacl ./
+ 2250  setfacl 1234.txt
+ 2251  getfacl 12345.txt
+ 2252  setfacl 12345.txt
+ 2253  setfacl ./
+ 2254  getfacl ./
+ 2255  getfacl 12345.txt
+ 2256  setfacl 12345.txt
+ 2257  ls -ld chintan
+ 2258  ls -ld ./
+ 2259  vim ~/.zshrc
+ 2260  mkdir file2
+ 2261  ls 
+ 2262  ls -ld file2
+ 2263  cd file2
+ 2264  ls
+ 2265  touch 1
+ 2266  rm 1
+ 2267  touch 1.txt
+ 2268  mkdir 1
+ 2269  ls -l
+ 2270  setfacl -m u:chintan.sakhiya:r,g:chintan.sakhiya:w,o:rwx ./
+ 2271  touch 2
+ 2272  rm 2
+ 2273  touch 2.txt
+ 2274  mkdir 2
+ 2275  ls -l
+ 2276  setfacl -x u:chintan.sakhiya:r,g:chintan.sakhiya:r,o:r ./
+ 2277  setfacl -Rx u:chintan.sakhiya:r,g:chintan.sakhiya:r,o:r ./
+ 2278  setfacl -d -m u:chintan.sakhiya:r,g:chintan.sakhiya:r,o:r ./
+ 2279  ls -l
+ 2280  touch 3.txt
+ 2281  mkdir 3
+ 2282  ls -l
+ 2283  setfacl -d -m u:chintan.sakhiya:rwx,g:chintan.sakhiya:rwx,o:rwx ./
+ 2284  touch 4.txt
+ 2285  mkdir 4
+ 2286  ls -l
+ 2287  touch 5.txt
+ 2288  ls -l
+ 2289  setfacl -d -m u:chintan.sakhiya:rwx,g:chintan.sakhiya:x,o:rwx ./
+ 2290  touch 5.txt
+ 2291  ls -l
+ 2292  man setfacl
+ 2293  getfacl ./
+ 2294  setfacl -d -m u:chintan.sakhiya:rwx,g:senseai:x,o:rwx ./
+ 2295  setfacl -d -m u:chintan.sakhiya:rwx,g:sensei:x,o:rwx ./
+ 2296  getfacl ./
+ 2297  touch 5.txt
+ 2298  ls -l
+ 2299  setfacl -d -x u:chintan.sakhiya:rwx,g:sensei:x,o:rwx ./
+ 2300  setfacl -x u:chintan.sakhiya:rwx,g:sensei:x,o:rwx ./
+ 2301  setfacl -x u::rwx,g:sensei:x,o:rwx ./
+ 2302  setfacl -x u::rwx ./
+ 2303  setfacl -x u:chintan.skahiya:rwx ./
+ 2304  setfacl -x u:chintan.sakhiya:rwx ./
+ 2305  setfacl -x u:chintan.sakhiya:rwx ./1.txt
+ 2306  setfacl -x u:chintan.sakhiya:rwx 1.txt
+ 2307  setfacl -x u:chintan.sakhiya:rwx 1
+ 2308  setfacl -x u:chintan.sakhiya:r 1
+ 2309  setfacl -x u:chintan.sakhiya:r ./
+ 2310  setfacl -x -b u:chintan.sakhiya:r ./
+ 2311  setfacl -b -x u:chintan.sakhiya:r ./
+ 2312  setfacl -b -x u:chintan.sakhiya:r-- ./
+ 2313  setfacl -b -x u:chintan.sakhiya:r 
+ 2314  setfacl -b -x u:chintan.sakhiy:r 
+ 2315  setfacl -b -x user:chintan.sakhiya:r 
+ 2316  setfacl -b -x users:chintan.sakhiya:r 
+ 2317  setfacl -b -x u:chintan.sakhiya:r 
+ 2318  setfacl -b -x g:chintan.sakhiya:r 
+ 2319  setfacl -b -x g:chintan.sakhiya:r ./
+ 2320  setfacl -b -x g:chintan.sakhiya:r 1.txt
+ 2321  setfacl -x g:chintan.sakhiya:r 1.txt
+ 2322  setfacl -b 1.txt
+ 2323  getfacl ./
+ 2324  mkdir file3
+ 2325  mkdir ..file3/
+ 2326  cd ..
+ 2327  ls
+ 2328  mkdir file3
+ 2329  ls -l
+ 2330  getfacl file3
+ 2331  cd file3
+ 2332  ls
+ 2333  touch 1.txt
+ 2334  mkdir 1
+ 2335  ls -l
+ 2336  setfacl -m u:root:w ./
+ 2337  getfacl ./
+ 2338  touch 2.txt
+ 2339  ls -l
+ 2340  chown u:root ./
+ 2341  chown root: ./
+ 2342  sudo chown root: ./
+ 2343  touch 3.txt
+ 2344  sudo touch 3.txt
+ 2345  ls -l
+ 2346  sudo touch 3.txt
+ 2347  ls -l
+ 2348  sudo chown root:chintan.sakhiya ./
+ 2349  getfacl ./
+ 2350  touch 4.txt
+ 2351  sudo touch 4.txt
+ 2352  ls -l
+ 2353  setfacl g:chintan.sakhiya:x ./
+ 2354  setfacl -m g:chintan.sakhiya:x ./
+ 2355  sudo setfacl -m g:chintan.sakhiya:x ./
+ 2356  getfacl ./
+ 2357  sudo touch 5.txt
+ 2358  ls -l
+ 2359  sudo setfacl -m g::x ./
+ 2360  sudo touch 6.txt
+ 2361  ls -l
+ 2362  sudo ls -l
+ 2363  sudo getfacl ./
+ 2364  sudo chown chintan.sakhiya:root ./
+ 2365  getfacl ./
+ 2366  touch 7.txt
+ 2367  ls -l
+ 2368  setfacl o::x ./
+ 2369  setfacl -m o::x ./
+ 2370  getfacl ./
+ 2371  setfacl -m u::x ./
+ 2372  getfacl ./
+ 2373  touch 8.txt
+ 2374  sudo touch 8.txt
+ 2375  ls -l
+ 2376  sudo ls -l
+ 2377  sudo chown chintan.sakhiya:chintan.sakhiya ./
+ 2378  touch 9.txt
+ 2379  sudo touch 9.txt
+ 2380  ls -l
+ 2381  sudo ls -l
+ 2382  getfacl ./
+ 2383  setfacl -x u:root ./
+ 2384  touch 10.txt
+ 2385  getfacl ./
+ 2386  sudo touch 10.txt
+ 2387  ls -l
+ 2388  sudo ls -l
+ 2389  setfacl -m u:chintam.sakhiya:x ./
+ 2390  setfacl -m u:chintan.sakhiya:x ./
+ 2391  touch 11.txt
+ 2392  sudo touch 11.txt
+ 2393  sudo ls -l
+ 2394  getfacl ./
+ 2395  sudo id
+ 2396  id
+ 2397  chown chintan.sakhiya:chintan.sakhiya 10.txt
+ 2398  sudo chown chintan.sakhiya:chintan.sakhiya 10.txt
+ 2399  ls -l
+ 2400  sudo ls -l
+ 2401  setfacl -d -m u:chintan.sakhiya:x ./
+ 2402  touch 12.txt
+ 2403  sudo touch 12.txt
+ 2404  sudo ls-l
+ 2405  sudo ls -l
+ 2406  getfacl ./
+ 2407  cd ..
+ 2408  rm -rf file3
+ 2409  sudo rm -rf file3
+ 2410  cd ..
+ 2411  ls 
+ 2412  git clone https://github.com/Improwised/git-exercise.git
+ 2413  git clone git@github.com:Improwised/git-exercise.git
+ 2414  ls 
+ 2415  cd git-exercise
+ 2416  git checkout -b chintan_sakhiya
+ 2417  ls
+ 2418  nano README.md
+ 2419  git add README.md
+ 2420  git commit -m "name added"
+ 2421  git push origin chintan_sakhiya
+ 2422  gir checkout -
+ 2423  git checkout -
+ 2424  git pull
+ 2425  nano README.md
+ 2426  git pull
+ 2427  git checkout -
+ 2428  nano README.md
+ 2429  git checkout -
+ 2430  git pull
+ 2431  nano README.md
+ 2432  git checkout -
+ 2433  git pull
+ 2434  nano README.md 
+ 2435  cd checkout -
+ 2436  git checkout -
+ 2437  git pull
+ 2438  git checkout -b chintan_sakhiya_table.rm
+ 2439  nano table.md
+ 2440  git commit -am "chintan sakhiya name added in table"
+ 2441  git push origin chintan_sakhiya_table.rm
+ 2442  git pull
+ 2443  nano table.md
+ 2444  git checkout -
+ 2445  git pull
+ 2446  ls
+ 2447  git checkout -
+ 2448  ls 
+ 2449  cat table.md
+ 2450  git push origin main origin/chintan_sakhiya_table.rm
+ 2451  git push origin main origin chintan_sakhiya_table.rm
+ 2452  git log
+ 2453  git push origin main origin chintan_sakhiya_table.rm
+ 2454  git pull
+ 2455  nano table.md
+ 2456  git push origin chintan_sakhiya_table.rm
+ 2457  git merge main
+ 2458  ls
+ 2459  git status
+ 2460  git add .
+ 2461  git checkout -
+ 2462  git pull
+ 2463  git checkout -
+ 2464  git status
+ 2465  git push origin main origin chintan_sakhiya_table.rm
+ 2466  git merge main
+ 2467  git add .
+ 2468  git commit -m "name add in table"
+ 2469  git push origin main origin chintan_sakhiya_table.rm
+ 2470  git checkout -
+ 2471  git pull
+ 2472  git checkout -
+ 2473  nano table.md
+ 2474  git checkout
+ 2475  git checkout -
+ 2476  git pull
+ 2477  nano table.md
+ 2478  gitk
+ 2479  git pull
+ 2480  gitk
+ 2481  git log --oneline --all --graph
+ 2482  git log --oneline --all --graph > 1.txt
+ 2483  cat 1.txt
+ 2484  nano 1.txt
+ 2485  ls 
+ 2486  cd ..
+ 2487  ls
+ 2488  cd Desktop
+ 2489  ls 
+ 2490  rm -rf .git
+ 2491  git init
+ 2492  git -am "first commit"
+ 2493  git commit-am "first commit"
+ 2494  git commit -am "first commit"
+ 2495  git add .
+ 2496  git commit -m "first commit"
+ 2497  git log
+ 2498  ls
+ 2499  cat 1.txt
+ 2500  cat f1
+ 2501  nano f1
+ 2502  git commit -am "f1 change"
+ 2503  git log
+ 2504  git checkout -b b1
+ 2505  nano f1
+ 2506  git commit -am "f1 change in b1"
+ 2507  git merge master
+ 2508  git checkout -
+ 2509  cat f1
+ 2510  git log --graph --all --oneline
+ 2511  git merge b1
+ 2512  cat f1
+ 2513  git log --graph --all --oneline
+ 2514  gitk
+ 2515  git log --graph --decorate --oneline
+ 2516  git log --graph --full-history --all --pretty=format:"%h%x09%d%x20%s"
+ 2517  cd ..
+ 2518  cd git-exercise
+ 2519  ls
+ 2520  git status
+ 2521  rm 1.txt
+ 2522  git log --graph --full-history --all --pretty=format:"%h%x09%d%x20%s"
+ 2523  git-gui
+ 2524  GitKraken
+ 2525  git branch
+ 2526  git branch --all
+ 2527  cd ..
+ 2528  open Desktop
+ 2529  cd git-exercise
+ 2530  git log
+ 2531  git cat-file a08df4c3e2e150749d921208853d2f2ddc8e876c -p
+ 2532  trele
+ 2533  tree
+ 2534  cd 
+ 2535  tree
+ 2536  cd Desktop
+ 2537  cd 2
+ 2538  ls
+ 2539  cd ..
+ 2540  rm -r 2
+ 2541  cd ..
+ 2542  tree
+ 2543  cd Desktop
+ 2544  git log | cat
+ 2545  git cat-file -p a70d82e022721f032dfd7a82c81dca9f2ed1cd54
+ 2546  git count-object
+ 2547  cd .. || cd Downloads
+ 2548  cd git-exercise
+ 2549  git count-object
+ 2550  git count-object -h
+ 2551  git count-object H
+ 2552  git count-object -H
+ 2553  cd ..
+ 2554  cd Desktop
+ 2555  git log
+ 2556  git reset --soft HEAD~1
+ 2557  git status
+ 2558  cat f1
+ 2559  git log
+ 2560  git add .
+ 2561  git commit -m "f1 changed"
+ 2562  git reset HEAD~1
+ 2563  git log
+ 2564  git status
+ 2565  git add f1
+ 2566  git status
+ 2567  git commit -m "f1 modified"
+ 2568  git log
+ 2569  git branch
+ 2570  cd ..
+ 2571  cd git-exercise
+ 2572  git branch -r
+ 2573  git branch 
+ 2574  git pull origin/Shaktiraj_zala
+ 2575  git pull origin Shaktiraj_zala
+ 2576  git branch
+ 2577  ls
+ 2578  nano README.md
+ 2579  git switch Shaktiraj_zala
+ 2580  git branch
+ 2581  git checkout -
+ 2582  git branch
+ 2583  cd ..
+ 2584  cd Desktop
+ 2585  ls
+ 2586  rm -r ./*
+ 2587  ls
+ 2588  rm -rf .git
+ 2589  git init
+ 2590  git remote add orignal git@github.com:chintansakhiya/first_repository.git
+ 2591  git checkout -M main 
+ 2592  history | grep -M main
+ 2593  history | grep "-M main"
+ 2594  history | grep "M main"
+ 2595  git branch -M main
+ 2596  git log
+ 2597  touch 1.txt
+ 2598  git add .
+ 2599  git commit -m "first commit"
+ 2600  git push origin main
+ 2601  git push orignal main
+ 2602  git log
+ 2603  git pull
+ 2604  ls
+ 2605  git push orignal main
+ 2606  ls
+ 2607  git branch
+ 2608  git pull orignal main
+ 2609  ls
+ 2610  git config pull.rebase tuue
+ 2611  git config pull.rebase true
+ 2612  ls
+ 2613  git push original main
+ 2614  git push orignal main
+ 2615  git log
+ 2616  rm -r .git
+ 2617  rm -rf .git
+ 2618  git init
+ 2619  git remote add xyz git@github.com:chintansakhiya/first_repository.git
+ 2620  git pull
+ 2621  ls
+ 2622  git pull xyz main
+ 2623  git branch
+ 2624  ls
+ 2625  git branch -M main
+ 2626  ls
+ 2627  git add .
+ 2628  git commit -m "1.txt added'
+ 2629  git commit -m "1.txt added"
+ 2630  git push xyz main
+ 2631  git log
+ 2632  history < 1.txt
+ 2633  cat 1.txt
+ 2634  histery 
